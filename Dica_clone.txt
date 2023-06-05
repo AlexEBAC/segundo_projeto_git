@@ -1,0 +1,1 @@
+fazendo um pull de um repositório criado no github. o comando foi: clone <endereço do reposit. no github> -l <novo nome do repositório na máquina>.
